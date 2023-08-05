@@ -1,1 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/ancienne-page", "destination": "/nouvelle-page" }
+  ]
+}
 
+{
+  "env": {
+    "API_KEY": "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"
+  }
+}
